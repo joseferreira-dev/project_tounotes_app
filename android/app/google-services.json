@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779033865278",
+    "project_id": "project-tounotes-app",
+    "storage_bucket": "project-tounotes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779033865278:android:258e19141a31c6fc86356f",
+        "android_client_info": {
+          "package_name": "com.tounotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuedYZbTkAvg1Nlyx-9MDzuUB2CaM5Q1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
